@@ -10,4 +10,4 @@ Cuando objetos prosaicos como cuerdas, llaves y vestimenta son puestos frente a 
 ![Memo Akten,"Learning to See" interactive installation, 2017](http://www.memo.tv/wpmemo/wp-content/uploads/2017/07/msa_gloomysunday_001.jpg)
 
 
-Fuente: https://aeon.co/videos/a-neural-network-that-keeps-seeing-art-where-we-see-mundane-objects
+[Original text / fuente:] (https://aeon.co/videos/a-neural-network-that-keeps-seeing-art-where-we-see-mundane-objects)

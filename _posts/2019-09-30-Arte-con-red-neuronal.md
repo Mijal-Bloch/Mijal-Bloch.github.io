@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Aprendiendo a ver: 
+## Aprendiendo a ver 
 
 # Una red neuronal que insiste en ver arte donde nosotros vemos objetos mundanos
 

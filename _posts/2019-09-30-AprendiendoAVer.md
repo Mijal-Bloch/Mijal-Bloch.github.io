@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Una red neuronal que insiste en ver arte donde nosotros vemos objetos mundanos
 
